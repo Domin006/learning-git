@@ -1,2 +1,2 @@
-tekst = "Dzień dobry!"
+tekst = "Dzień dobry! Mamy dziś poniedziłek."
 print(tekst)
